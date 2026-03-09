@@ -1,2 +1,2 @@
 # NLU-Portal-Improvements
-This project focuses on the problems students face when using the NLU portal (https://my.nl.edu/NLPROD/WelcomeHome), focusing on navigability and 
+This project focuses on the problems students face when using the NLU portal (https://my.nl.edu/NLPROD/WelcomeHome), focusing on navigability and overall how long it takes to find something in the website. This project aims to improve the website by improving quality of life by decreasing submenu items on the front page leading and fixing broken pages, and navigability by improving the search bar and adding an AI assistant. The end goal is that these minor improvements will add up which will massively decrease user frustration and decrease how long it takes to find an item.
